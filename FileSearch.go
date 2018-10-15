@@ -1,4 +1,4 @@
-package fileSearch
+package FileSearch
 
 import (
 	"os"
